@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:33:23	61717/61717	---M--	200	added ('OK')	text/html	etag:%2275ab0c576bf01ed7cbbcb2b7682b7801%22	http://127.0.0.1:48626/nodes/obj/index.html	C:/Users/popo/Desktop/M-A-R-C/Temp/houdini2/127.0.0.1_48626/nodes/obj/index.html	(from )
+12:33:23	1260/1260	---M--	404	error ('NOT%20FOUND')	text/html	date:Tue,%2022%20Jan%202019%2011:33:23%20GMT	http://127.0.0.1:48626/robots.txt		(from )
